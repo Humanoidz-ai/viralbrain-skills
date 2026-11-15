@@ -1,0 +1,15 @@
+{
+  "name": "viralbrain-skills",
+  "owner": {
+    "name": "ViralBrain",
+    "url": "https://viralbrain.ai/?utm_source=github&utm_medium=skill&utm_campaign=viralbrain-skills&utm_content=marketplace-owner"
+  },
+  "plugins": [
+    {
+      "name": "viralbrain-skills",
+      "source": "./",
+      "description": "Five LinkedIn skills that run on the ViralBrain MCP server: post in your voice, best hooks, blog to 5 posts, content audit, monthly plan.",
+      "version": "1.0.0"
+    }
+  ]
+}

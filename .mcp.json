@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "viralbrain": {
+      "type": "http",
+      "url": "https://viralbrain.ai/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "viralbrain-skills",
+  "version": "1.0.0",
+  "description": "Five LinkedIn skills for Claude Code: write a post in your voice, find your best hooks, repurpose a blog into 5 posts, audit why reach is flat, and plan a month of posts. Runs on the ViralBrain MCP server.",
+  "author": {
+    "name": "ViralBrain",
+    "url": "https://viralbrain.ai/?utm_source=github&utm_medium=skill&utm_campaign=viralbrain-skills&utm_content=plugin-author"
+  },
+  "homepage": "https://viralbrain.ai/linkedin-mcp-server?utm_source=github&utm_medium=skill&utm_campaign=viralbrain-skills&utm_content=plugin-homepage",
+  "repository": "https://github.com/Humanoidz-ai/viralbrain-skills",
+  "license": "MIT",
+  "keywords": [
+    "linkedin",
+    "content",
+    "ghostwriting",
+    "hooks",
+    "repurpose",
+    "mcp",
+    "viralbrain"
+  ],
+  "privacyPolicyUrl": "https://viralbrain.ai/privacy-policy",
+  "icon": ".claude-plugin/icon.png"
+}
