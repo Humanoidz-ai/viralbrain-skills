@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.viralbrain/viralbrain",
+  "title": "ViralBrain",
+  "description": "Write LinkedIn posts in your voice from your real posts, voice and analytics. Saves drafts.",
+  "version": "1.0.0",
+  "websiteUrl": "https://viralbrain.ai/linkedin-mcp-server",
+  "repository": {
+    "url": "https://github.com/Humanoidz-ai/viralbrain-skills",
+    "source": "github",
+    "id": "1458921389"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.viralbrain.ai/api/mcp"
+    }
+  ]
+}
